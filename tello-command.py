@@ -19,3 +19,5 @@ while True:
         print(err)
         sock.close()
         break
+
+# 이도윤입니다
