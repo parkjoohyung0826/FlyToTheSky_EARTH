@@ -1,0 +1,6 @@
+C:\Users\pjh03\OneDrive\바탕 화면\Droning\새 폴더\tello-ai-yolo\darknet-master\training\tello\dataset\KakaoTalk_20230804_152856385.jpg
+C:\Users\pjh03\OneDrive\바탕 화면\Droning\새 폴더\tello-ai-yolo\darknet-master\training\tello\dataset\KakaoTalk_20230804_152911625.jpg
+C:\Users\pjh03\OneDrive\바탕 화면\Droning\새 폴더\tello-ai-yolo\darknet-master\training\tello\dataset\KakaoTalk_20230804_152937353.jpg
+C:\Users\pjh03\OneDrive\바탕 화면\Droning\새 폴더\tello-ai-yolo\darknet-master\training\tello\dataset\KakaoTalk_20230804_153004628.jpg
+C:\Users\pjh03\OneDrive\바탕 화면\Droning\새 폴더\tello-ai-yolo\darknet-master\training\tello\dataset\KakaoTalk_20230804_153056718.jpg
+C:\Users\pjh03\OneDrive\바탕 화면\Droning\새 폴더\tello-ai-yolo\darknet-master\training\tello\dataset\KakaoTalk_20230804_153157738.jpg

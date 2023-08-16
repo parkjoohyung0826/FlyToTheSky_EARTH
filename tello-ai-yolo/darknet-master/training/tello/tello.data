@@ -1,0 +1,6 @@
+classes= 1
+train  = C:\Users\pjh03\OneDrive\바탕 화면\Droning\새 폴더\tello-ai-yolo\darknet-master\training\tello\train.txt
+valid  = C:\Users\pjh03\OneDrive\바탕 화면\Droning\새 폴더\tello-ai-yolo\darknet-master\training\tello\test.txt
+names  = tello.names
+backup = C:\Users\pjh03\OneDrive\바탕 화면\Droning\새 폴더\tello-ai-yolo\darknet-master\backup\
+

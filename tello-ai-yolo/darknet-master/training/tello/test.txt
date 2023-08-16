@@ -1,0 +1,2 @@
+C:\Users\pjh03\OneDrive\바탕 화면\Droning\새 폴더\tello-ai-yolo\darknet-master\training\tello\dataset\KakaoTalk_20230804_153235896.jpg
+C:\Users\pjh03\OneDrive\바탕 화면\Droning\새 폴더\tello-ai-yolo\darknet-master\training\tello\dataset\KakaoTalk_20230804_153316971.jpg
